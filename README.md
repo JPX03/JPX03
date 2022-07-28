@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on interviewing
-- - 🌱 I’m currently learning node and react
+- 🌱 I’m currently learning node and react
 - :phone:call me at 18281081279
 <!--
 **wyneJiang/wyneJiang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
