@@ -1,7 +1,7 @@
 ### Hi, 👋
 ### welconme to jpx'home :house:! 
 
-<br />
+
 - 🔭 I’m currently working on interviewing
 - 🌱 I’m currently learning node and react
 - :phone:call me at 18281081279
