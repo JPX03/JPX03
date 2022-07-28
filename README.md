@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on interviewing
--:iphone:call me at 18281081279
+- :iphone:call me at 18281081279
 <!--
 **wyneJiang/wyneJiang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
