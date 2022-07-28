@@ -1,5 +1,5 @@
-### Hi👋
-### Welconme to jpx'home :house:! 
+### Hi,👋
+### welconme to jpx'home :house:! 
 
 
 - 🔭 I’m currently working on interviewing
